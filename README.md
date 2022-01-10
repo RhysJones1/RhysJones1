@@ -2,9 +2,11 @@
 
  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-HelloWorld and welcome to my Github page! 🖐
+# HelloWorld and welcome to my Github page! 🖐
 
 I've made a few of my repositories private for the time being as i'm tidying them up and making them more presentable!
+
+## Currently Working On
 
 I'm currently learning Pascal for work purposes which is currently public.
 

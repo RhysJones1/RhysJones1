@@ -10,7 +10,7 @@ I've made a few of my repositories private for the time being as i'm tidying the
 
 ## Currently Working On
 
-I'm currently learning Pascal for work purposes which is currently public.
+I'm currently learning Delphi along with Object Pascal for work purposes.
 
 Happy Coding!
 

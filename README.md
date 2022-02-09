@@ -6,8 +6,6 @@
 
 # HelloWorld and welcome to my Github page! 🖐
 
-I've made a few of my repositories private for the time being as i'm tidying them up and making them more presentable!
-
 ## Currently Working On
 
 I'm currently learning Delphi along with Object Pascal for work purposes.

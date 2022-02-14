@@ -14,7 +14,7 @@
 
 ## Side Projects
 
-* Currently designing a website for a local bakery, supporting their expansion into online orders
+* Currently designing a website for a local bakery, supporting their expansion into online ordering
 * Creating a Raspberry PI Cluster using Kubernetes
 
 Happy Coding!

@@ -8,7 +8,14 @@
 
 ## Currently Working On
 
-I'm currently learning Delphi along with Object Pascal for work purposes.
+* Delphi along with Object Pascal for work purposes
+* Java EE
+* Brushing up on my MySQL knowledge
+
+## Side Projects
+
+* Currently designing a website for a local bakery, supporting their expansion into online orders
+* Creating a Raspberry PI Cluster using Kubernetes
 
 Happy Coding!
 

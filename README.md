@@ -21,6 +21,8 @@ Happy Coding!
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhysjones1&layout=compact)
 
+## Here is a random joke that'll make you laugh! 😂
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!---
 RhysJones1/RhysJones1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

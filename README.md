@@ -4,7 +4,7 @@
  
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  
-# HelloWorld and welcome to my Github page! 🖐
+# HelloWorld and Welcome to my Github Page! 🖐
 
 ## Currently Working On
 

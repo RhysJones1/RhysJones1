@@ -19,6 +19,8 @@
 
 Happy Coding!
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhysjones1&layout=compact)
+
 
 <!---
 RhysJones1/RhysJones1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

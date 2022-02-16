@@ -4,8 +4,6 @@
  
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhysjones1&layout=compact)
-
 # HelloWorld and welcome to my Github page! 🖐
 
 ## Currently Working On
@@ -21,7 +19,7 @@
 
 Happy Coding!
 
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhysjones1&layout=compact)
 
 
 <!---

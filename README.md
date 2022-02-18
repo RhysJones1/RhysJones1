@@ -22,7 +22,7 @@
 * The Phoenix Project 
 * The Pragmatic Programmer
 
-Happy Coding! 💻
+## Happy Coding! 💻
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhysjones1&layout=compact)
 

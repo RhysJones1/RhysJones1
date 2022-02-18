@@ -17,7 +17,12 @@
 * Currently designing a website for a local bakery, supporting their expansion into online ordering
 * Creating a Raspberry PI Cluster using Kubernetes
 
-Happy Coding!
+## Currently Reading 📘
+
+* The Phoenix Project 
+* The Pragmatic Programmer
+
+Happy Coding! 💻
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhysjones1&layout=compact)
 

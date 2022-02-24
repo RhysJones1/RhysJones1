@@ -10,7 +10,7 @@
 
 * Delphi along with Object Pascal for work purposes
 * Java EE
-* Brushing up on my MySQL knowledge
+* Brushing up on my SQL knowledge
 
 ## Side Projects
 

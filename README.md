@@ -24,7 +24,7 @@
 
 ## Happy Coding! 💻
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhysjones1&layout=compact)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RhysJones1)](https://github.com/RhysJones1/github-readme-stats)
 
 ## Here is a random joke that'll make you laugh! 😂
 ![Jokes Card](https://readme-jokes.vercel.app/api)

@@ -8,19 +8,15 @@
 
 ## Currently Working On
 
-* Delphi along with Object Pascal for work purposes
-* Java EE
-* Brushing up on my SQL knowledge
+
 
 ## Side Projects
 
-* Currently designing a website for a local bakery, supporting their expansion into online ordering
-* Creating a Raspberry PI Cluster using Kubernetes
+
 
 ## Currently Reading 📘
 
-* The Phoenix Project 
-* The Pragmatic Programmer
+
 
 ## Happy Coding! 💻
 
